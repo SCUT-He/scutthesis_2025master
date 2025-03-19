@@ -63,6 +63,8 @@ _源代码采用了Mercurial进行版本控制，最近更新版直接用hg clon
 ----------
 （推荐加入“Tex与lyx讨论”QQ群： 253568537，并关注GitHub上的最新版本）
 
+Mar 19,2025 更新一些使用细节，见issue[更新了一些设置，更符合最新要求](https://github.com/alwintsui/scutthesis/issues/16)
+
 May 7,2016 发布1.7版本
 
 1.       采用RequirePackage指令导入longtable包，并修正“研究成果”节表格无法自动分页的错误。
